@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "5.8.3 poccix",
-    "versionCode": "158",
+    "versionCode": "128",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v5.8.3/MagiskManager-v5.8.3.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
   },
